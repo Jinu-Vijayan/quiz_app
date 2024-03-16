@@ -21,3 +21,25 @@
 .skip_btn{
     width: 20%;
 }
+
+@media screen and (max-width:1182.5px) {
+    .skip_btn{
+        width: 40%;
+    }
+}
+
+@media screen and (max-width:846.5px) {
+    .question_card{
+        width: 70%;
+    }
+}
+
+@media screen and (max-width:422.5px) {
+    .question_card{
+        width: 90%;
+    }
+
+    .skip_btn{
+        width: 50%;
+    }
+}
